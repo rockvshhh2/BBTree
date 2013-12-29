@@ -1,6 +1,5 @@
 BBTree : 
 David.Huang
-rockvshhh2@hotmail.com
 BBTree is a multi-functional 'tree plug-ins.' based on jQuery. 
 
 
